@@ -1,5 +1,7 @@
 # TUGAS KULIAH 5
-
+**********************************************************************************************************
+Menggunakan metode algoritma BFS untuk memecahkan masalah 4L galon dan 3L galon. Dengan goal state n, y.
+**********************************************************************************************************
 ![1](https://user-images.githubusercontent.com/92938547/138861992-07f1f656-35d0-416b-be99-dc59b347ce96.png)
 ![2](https://user-images.githubusercontent.com/92938547/138862009-11a795bb-5edf-4b2d-921a-f6a9a4b116bd.png)
 ![3](https://user-images.githubusercontent.com/92938547/138862019-b7683daf-e935-42cf-91d6-3e9c11612523.png)
